@@ -1,0 +1,21 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "batman car"
+    },
+    {
+      "id": 1,
+      "name": "mofusand cat"
+    },
+    {
+      "id": 2,
+      "name": "sinchan cow"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

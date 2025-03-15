@@ -1,0 +1,5 @@
+train: /train
+val: /val
+
+nc: 3
+names: ['batman car', 'mofusand cat', 'sinchan cow']
