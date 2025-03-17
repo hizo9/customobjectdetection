@@ -1,0 +1,5 @@
+train: C:\Users\YOUR_USER\Downloads\customobject_detection\train
+val: C:\Users\YOUR_USER\Downloads\customobject_detection\val
+
+nc: 3
+names: ['batman car', 'mofusand cat', 'sinchan cow']
