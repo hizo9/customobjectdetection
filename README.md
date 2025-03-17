@@ -28,6 +28,12 @@ a simple program that detects custom objects
 
 ###
 
+## Tutorial
+1) edit customdataset.yaml val & train path
+2) run cmd `yolo detect train data=customdataset.yaml model=yolo11m.pt epochs=100 imgsz=640`
+
+###
+
 ## Project Overview
 ![screenshot1](https://i.imgur.com/5eFMTWX.png)
 
