@@ -29,6 +29,6 @@ a simple program that detects custom objects
 ###
 
 ## Project Overview
-![screenshot1](https://i.imgur.com/JTaZ5ci.png)
+![screenshot1](https://i.imgur.com/5eFMTWX.png)
 
 ###
